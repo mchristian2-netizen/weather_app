@@ -36,4 +36,4 @@ This project utilizes the **Open-Meteo API**, a free, open-source weather API th
   - **Solution:** Open-Meteo supports CORS by default, but I ensured fallback error handling if the fetch failed.
 
 ## Demo Video
-[PASTE YOUR VIDEO LINK HERE]
+https://www.youtube.com/watch?v=rVszKiCsHwE
